@@ -6,9 +6,11 @@ Jeg fik adgang til Yousee musik gennem mit mobilabonnement, men savnede en rigti
 Fordi default ikonet er virkelig grimt, når man bruger nativefier, har jeg opdateret det med det ikon Yousee bruger til deres iOS app i AppStore.
 
 # Download Download app'en
-[Download app'en](https://drive.google.com/open?id=1Z_g9rSLavB7Jqa_rcGYn6fR9_KsF8O9j)
+[Download app'en fra mit Google Drive](https://drive.google.com/open?id=1Z_g9rSLavB7Jqa_rcGYn6fR9_KsF8O9j)
 
-# Nativefier Jeg kørte følgende kommando i nativefier for at lave app'en: 
+# Nativefier 
+Hvis du synes det er lidt shady at hente den fra mig, kan du let lave din egen.
+Jeg kørte følgende kommando i nativefier for at lave app'en: 
 `"Yousee Musik" "https://musik.yousee.dk" --icon "/Users/nielsandersen/Desktop/yousee musik ikon.jpg"`
 
 # Generel ansvarsfraskrivelse 
