@@ -1,0 +1,14 @@
+/* site.css */
+
+/* header is draggable... */
+.site-header-top {
+  -webkit-app-region: drag;
+}
+
+.site-header {
+  -webkit-app-region: drag;
+}
+
+body {
+  -webkit-app-region: drag;
+}
