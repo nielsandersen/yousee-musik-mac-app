@@ -6,7 +6,7 @@ Jeg fik adgang til Yousee musik gennem mit mobilabonnement, men savnede en rigti
 Fordi default ikonet er virkelig grimt, når man bruger nativefier, har jeg opdateret det med det ikon Yousee bruger til deres iOS app i AppStore som jeg har gennemarbejdet lidt, så det matcher macOS lidt bedre.
 
 # Download app'en
-[Download app'en fra mit Google Drive](https://drive.google.com/open?id=1Z_g9rSLavB7Jqa_rcGYn6fR9_KsF8O9j)
+[Download app'en fra mit Google Drive](https://drive.google.com/open?id=1YqlI2Jr2l3_H78p0EWNruNSU7QobtBt6)
 
 # Nativefier 
 Hvis du synes det er lidt shady at hente den fra mig, kan du let lave din egen.
