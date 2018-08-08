@@ -1,6 +1,8 @@
 # yousee-musik-mac-app
 En uofficiel desktop macOS app til Yousee Musik
 
+![Usynlig titelbar med native kontroller og dock ikon](https://github.com/nielsandersen/yousee-musik-mac-app/blob/master/screenshot.png?raw=true)
+
 Jeg fik adgang til Yousee musik gennem mit mobilabonnement, men savnede en rigtig desktop app, så jeg har brugt nativefier til at lave en.
 
 Fordi default ikonet er virkelig grimt, når man bruger nativefier, har jeg opdateret det med det ikon Yousee bruger til deres iOS app i AppStore som jeg har gennemarbejdet lidt, så det matcher macOS lidt bedre.
